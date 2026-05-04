@@ -70,7 +70,7 @@ project/
 
 - The **trained model file (`delivery_model.pkl`) is included** for predictions.
 - The **feature structure file (`columns.pkl`) ensures correct input format during prediction**.
-- The **main training file (`main.py`) is large and not uploaded to GitHub**.
+- The **main training file (`delivery_model.pkl`) is large and not uploaded to GitHub**.
 - It is available inside the **Docker environment** for execution.
 
 ---
